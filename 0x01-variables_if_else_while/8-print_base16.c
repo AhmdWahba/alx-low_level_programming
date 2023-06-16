@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * main - prints all the numbers of base 16 in lowercase,
  * followed by a new line
@@ -19,4 +21,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
