@@ -1,6 +1,3 @@
-Here's the modified code in Betty style:
-
-```
 #include "main.h"
 
 /**
